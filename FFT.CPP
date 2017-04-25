@@ -107,5 +107,5 @@ for(i=0;i<=7;i=i+1)
 		b2[i]=gamma1[i];
 		cout<<b2[i]<<endl;
 	}
-	            getch();
-            } 
+	getch();
+} 
