@@ -88,7 +88,7 @@ for(i=0;i<=7;i=i+1)
       y1[i]=gamma[i];
 }
 
-								for(k=j1=0;k<=3,j1<=3;k++,j1++)
+	for(k=j1=0;k<=3,j1<=3;k++,j1++)
 	{
              	o=cos((2*pi*j1)/8);
 		o1=sin((2*pi*j1)/8);
